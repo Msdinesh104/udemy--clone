@@ -224,6 +224,10 @@ body {
         flex-basis: 40%;
     }
 
+    .categories{
+        display: none;
+    }
+
     .navbar__s2, .navbar__s3{
         display: none;
     }
